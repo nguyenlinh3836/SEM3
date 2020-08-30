@@ -1,0 +1,36 @@
+﻿<Page
+    x:Class="LegendaryLayout.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:LegendaryLayout"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="Lorem Ipsum" FontSize="48" Margin="0,0,0,20"/>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Width="250" TextWrapping="Wrap" Margin="0,0,20,0">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor vulputate eleifend. Etiam in orci ac nunc rutrum blandit in id leo.
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor vulputate eleifend. Etiam in orci ac nunc rutrum blandit in id leo.
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor vulputate eleifend. Etiam in orci ac nunc rutrum blandit in id leo.
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor vulputate eleifend. Etiam in orci ac nunc rutrum blandit in id leo.
+                </TextBlock>
+                <TextBlock Width="500" TextWrapping="Wrap" Margin="0,0,20,0">
+                    Vivamus fringilla at urna quis efficitur.                   
+                te eleifend. Etiam in orci ac nunc rutrum blandit in id leo. Vivamus fringilla at urna quis efficitur. Sed turpis dui, dictum eget arcu quis, auctor dignissim ligula. Quisque sit amet iaculis tortor, sed rutrum odio. Fusce molestie pulvinar quam, sed blandit justo hendrerit vitae. Aliquam molestie justo sed felis elementum ultrices. Morbi facilisis sodales lorem, et varius justo. Nulla et mauris vitae odio feugiat porta euismod vitae dolor. Curabitur cursus bibendum mi, ac condimentum libero efficitur convallis. Morbi ut neque non ligula imperdiet luctus nec vel felis. Morbi tincidunt, velit vitae convallis tincidunt, diam ex dignissim enim, et sagittis sem elit nec tellus.
+                Praesent porttitor mollis ex, sed vehicula arcu cursus vel. Vestibulum auctor sem vulputate leo commodo dictum. Quisque arcu ligula, luctus a dolor eu, varius laoreet velit. Pellentesque sagittis facilisis nibh ac vehicula. Aenean porta et massa a scelerisque. Suspendisse non felis ultrices, sagittis neque at, vulputate tellus. Fusce sit amet dolor nec quam sodales consequat ac ut sapien. Aenean tempor suscipit ligula, et placerat elit dapibus vitae.
+                </TextBlock>
+                <StackPanel Orientation="Horizontal">
+                    <Rectangle Fill="blue" Width="200" Height="200" VerticalAlignment="Top"/>
+                    <StackPanel>
+                        <Rectangle Fill="red" Width="100" Height="100"/>
+                        <Rectangle Fill="Yellow" Width="100" Height="100"/>
+                    </StackPanel>                
+                 
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>
