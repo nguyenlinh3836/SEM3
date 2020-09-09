@@ -88,6 +88,9 @@
     <AppxPackagedFile Include="C:\Users\LEGION\source\repos\App2\Lab07_2\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LEGION\source\repos\App2\Lab07_2\bin\x86\Debug\ContactTemplate.xbf">
+      <PackagePath>ContactTemplate.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\LEGION\source\repos\App2\Lab07_2\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>

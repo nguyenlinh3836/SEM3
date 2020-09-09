@@ -43,3 +43,8 @@ C:\Users\LEGION\source\repos\App2\Lab07_2\obj\x86\Debug\qualifiers.txt.intermedi
 C:\Users\LEGION\source\repos\App2\Lab07_2\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\LEGION\source\repos\App2\Lab07_2\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\LEGION\source\repos\App2\Lab07_2\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885058160000000.json
+C:\Users\LEGION\source\repos\App2\Lab07_2\bin\x86\Debug\ContactTemplate.xbf
+C:\Users\LEGION\source\repos\App2\Lab07_2\obj\x86\Debug\ContactTemplate.g.i.cs
+C:\Users\LEGION\source\repos\App2\Lab07_2\obj\x86\Debug\ContactTemplate.g.cs
+C:\Users\LEGION\source\repos\App2\Lab07_2\obj\x86\Debug\ContactTemplate.xaml
+C:\Users\LEGION\source\repos\App2\Lab07_2\obj\x86\Debug\ContactTemplate.xbf
